@@ -35,6 +35,10 @@
     background-color: transparent;
     color: #ABABAB;
     min-width: 100px;
+    padding: 6px;
+    border-radius: 4px;
+    text-align: center;
+    
 }
 .btn {
     border: 2px solid #ebbc1d;
