@@ -5,7 +5,7 @@
 }
 
 .navbar-brand {
-    color: #2EE59D;
+    color: #FFFFFF;
     text-shadow: 2px 2px 5px #2EE59D;
 }
 
@@ -31,9 +31,9 @@
 
 /* btn class used for all buttons */
 .btn {
-    border: 2px solid #ababab;
+    border: 2px solid #ebbc1d;
     background-color: transparent;
-    color: #ababab;
+    color: #ebbc1d;
     min-width: 100px;
 }
 
@@ -42,7 +42,7 @@
 }
 
 a:hover {
-    color: #2EE59D;
+    color: #ebbc1d;
 }
 
 .fa {
@@ -52,7 +52,7 @@ a:hover {
 }
 
 .fa:hover {
-    color: #2EE59D;
+    color: #ebbc1d;
 }
 
 /* Body */
@@ -71,7 +71,7 @@ h1 {
 }
 
 p {
-    color: #ffffff;
+    color: #ababab;
 }
 
 .sections {
