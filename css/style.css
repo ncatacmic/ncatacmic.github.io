@@ -6,11 +6,11 @@
 
 .navbar-brand {
     color: #FFFFFF;
-    text-shadow: 2px 2px 5px #ebbc1d;
+    text-shadow: 2px 2px 3px #f4cc5d;
 }
 
 .navbar-brand:hover {
-    color: #2EE59D;
+    color: #f4cc5d;
 }
 
 .nav-link {
@@ -18,15 +18,15 @@
 }
 
 .nav-link-num {
-    color: #ebbc1d;
+    color: #f4cc5d;
 }
 
 .nav-link:hover {
-    color: #ebbc1d;
+    color: #f4cc5d;
 }
 
 .active a {
-    color: #ebbc1d;
+    color: #f4cc5d;
 }
 
 /* btn class used for all buttons */
