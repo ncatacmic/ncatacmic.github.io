@@ -30,6 +30,12 @@
 }
 
 /* btn class used for all buttons */
+.btn-disabled {
+    border: 2px solid #ABABAB;
+    background-color: transparent;
+    color: #ABABAB;
+    min-width: 100px;
+}
 .btn {
     border: 2px solid #ebbc1d;
     background-color: transparent;
