@@ -1,7 +1,7 @@
 /* Navbar */
 
 .navbar {
-    background-color: #0a192f;
+    background-color: #203b73;
 }
 
 .navbar-brand {
@@ -58,7 +58,7 @@ a:hover {
 /* Body */
 
 body {
-    background-color: #0a192f;
+    background-color: #203b73;
     font-family: "Courier New";
 }
 
@@ -67,12 +67,11 @@ body {
 }
 
 h1 {
-    /* color: rgb(170, 170, 170); */
-    color: white;
+    color: #ebbc1d;
 }
 
 p {
-    color: rgb(170, 170, 170);
+    color: #bababa;
 }
 
 .sections {
