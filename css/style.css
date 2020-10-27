@@ -71,6 +71,12 @@ a:hover {
 }
 
 /* Body */
+
+li {
+    float:left;
+    width: 100px;
+}
+
 body {
     background-color: #203b73;
     font-family: 'Share Tech Mono', monospace;
