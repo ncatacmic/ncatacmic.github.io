@@ -147,7 +147,11 @@ th {
 } */
 
 .card-title {
-    max-width: 150px;
+    max-width: 175px;
+}
+
+.card-logo {
+    margin-right: 10px;
 }
 
 
