@@ -175,6 +175,11 @@ th {
 
 
 @media screen and (min-width : 320px) and (max-width: 480px) {
+  
+  body {
+    background: #333;
+  }
+  
   .main-container {
     position: relative;
     justify-content: space-between;
