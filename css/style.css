@@ -109,6 +109,10 @@ p {
     margin-top: 3.5rem;
 }
 
+.tab {
+    float: left;
+}
+
 /* Members Page */
 
 table {
