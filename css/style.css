@@ -142,11 +142,12 @@ th {
 /* Resources Page */
 
 
-/*
+
 .card-deck {
-    margin-top: 1.35rem;
+    width: 800px;
 }
 
+/*
 .card {
     background: #112a56;
 }
@@ -181,7 +182,7 @@ th {
 .main-container {
     position: relative;
     justify-content: space-between;
-    width: 900px;
+    width: 800px;
     margin: auto;
 }
 
@@ -194,8 +195,6 @@ th {
     margin: auto;
    }
 }
-
-
 
 .main-container .card {
     background: transparent;
