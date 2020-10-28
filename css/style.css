@@ -167,10 +167,20 @@ th {
     background-color: #f1f1f1; 
 }*/
 
+
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+  .main-container {
+    position: relative;
+    justify-content: space-between;
+    width: 300px;
+    margin: auto;
+   }
+}
+
 .main-container {
     position: relative;
     justify-content: space-between;
-    width: 85%;
+    width: 900px;
     margin: auto;
 }
 
