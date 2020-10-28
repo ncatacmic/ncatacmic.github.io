@@ -88,6 +88,10 @@ body {
     font-family: 'Share Tech Mono', monospace;
 }
 
+p.date {
+  margin-bottom:10px;
+}
+
 .body-margin {
     margin-top: 6rem;
 }
