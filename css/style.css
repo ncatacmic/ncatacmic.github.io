@@ -175,7 +175,7 @@ th {
     position: relative;
     border-radius: 10px;
     float: left;
-    max-width: 300px;
+    width: 250px;
     margin-left: 15px;
 }
 
@@ -193,20 +193,6 @@ th {
 .container .card .current {
     background: #ebbc1d;
 }
-
-
-/*
-.container .card:nth-child(1) .icon {
-    background: #e07768;
-}
-
-.container .card:nth-child(2) .icon {
-    background: #6eadd4;
-}
-
-.container .card:nth-child(3) .icon {
-    background: #4aada9;
-}*/
 
 
 .container .card .icon .fa {
