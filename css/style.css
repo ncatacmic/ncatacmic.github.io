@@ -155,10 +155,9 @@ th {
 }*/
 
 .container {
-    width: 1000px;
     position: relative;
-    display: flex;
     justify-content: space-between;
+    width: 100%;
 }
 
 .container .card {
@@ -215,7 +214,8 @@ i {
 }
 
 .container .card .face {
-    width: 300px;
+    max-width: 300px;
+    min-width: 150px;
     height: 200px;
     transition: 0.5s;
 }
