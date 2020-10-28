@@ -96,7 +96,8 @@ h1 {
 
 .text-title {
     color:#203b73;
-    font-size: 18px;
+    font-size: 28px;
+    max-width: 150px
 }
 
 h3 {
