@@ -151,6 +151,11 @@ th {
 
 .card {
     border-radius: .25rem;
+    border: 0px;
+}
+
+.card-body {
+    background: #203b73;
 }
 
 /*
