@@ -175,11 +175,18 @@ th {
     left: 0;
     width: 100%;
     height: 100%;
-    background: #f00;
+    background: #ebbc1d;
     transition: 0.7s;
     z-index: 1;
 }
 
+
+.container .card .current {
+    background: #ababab;
+}
+
+
+/*
 .container .card:nth-child(1) .icon {
     background: #e07768;
 }
@@ -190,7 +197,7 @@ th {
 
 .container .card:nth-child(3) .icon {
     background: #4aada9;
-}
+}*/
 
 
 .container .card .icon .fa {
