@@ -94,9 +94,9 @@ h1 {
     color: #ebbc1d;
 }
 
-h2 {
+.text-title {
     color:#203b73;
-    font-size: 15px;
+    font-size: 18px;
 }
 
 h3 {
