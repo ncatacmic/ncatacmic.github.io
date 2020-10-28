@@ -73,7 +73,7 @@ a:hover {
 /* Body */
 
 ul li {
-    float:left;
+    display: inline-block;
     width: 100px;
 }
 
