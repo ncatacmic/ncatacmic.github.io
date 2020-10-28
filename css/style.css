@@ -88,6 +88,11 @@ body {
     font-family: 'Share Tech Mono', monospace;
 }
 
+.formatted {
+  width: 100px;
+  margin: auto;
+}
+
 p.date {
   margin-bottom:10px;
 }
@@ -140,13 +145,6 @@ th {
 }
 
 /* Resources Page */
-
-
-
-.card-deck {
-    width: 800px;
-    margin: auto;
-}
 
 
 .card {
