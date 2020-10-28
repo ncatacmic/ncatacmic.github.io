@@ -163,6 +163,7 @@ th {
 
 .container .card {
     background: transparent;
+    border: 0px;
     position: relative;
     border-radius: 10px;
     float: left;
