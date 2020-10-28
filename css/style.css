@@ -167,13 +167,13 @@ th {
     background-color: #f1f1f1; 
 }*/
 
-.container {
+.main-container {
     position: relative;
     justify-content: space-between;
     width: 100%;
 }
 
-.container .card {
+.main-container .card {
     background: transparent;
     border: 0px;
     position: relative;
@@ -183,7 +183,7 @@ th {
     margin-left: 15px;
 }
 
-.container .card .icon {
+.main-container .card .icon {
     position: absolute;
     top: 0;
     left: 0;
@@ -194,12 +194,12 @@ th {
     z-index: 1;
 }
 
-.container .card .current {
+.main-container .card .current {
     background: #ebbc1d;
 }
 
 
-.container .card .icon .fa {
+.main-container .card .icon .fa {
     position: absolute;
     top: 50%;
     left: 50%;
@@ -223,14 +223,14 @@ i {
     height:100%;
 }
 
-.container .card .face {
+.main-container .card .face {
     max-width: 300px;
     min-width: 150px;
     height: 100px;
     transition: 0.5s;
 }
 
-.container .card .face.face1 {
+.main-container .card .face.face1 {
     position: relative;
     background: #333;
     display: flex;
@@ -240,25 +240,25 @@ i {
     transform: translateY(50px);
 }
 
-.container .card:hover .face.face1{
+.main-container .card:hover .face.face1{
     background: #ff0057;
     transform: translateY(0px);
 }
 
-.container .card .face.face1 .content {
+.main-container .card .face.face1 .content {
     opacity: 1;
     transition: 0.5s;
 }
 
-.container .card:hover .face.face1 .content {
+.main-container .card:hover .face.face1 .content {
     opacity: 1;
 }
 
-.container .card .face.face1 .content i{
+.main-container .card .face.face1 .content i{
     max-width: 100px;
 }
 
-.container .card .face.face2 {
+.main-container .card .face.face2 {
     position: relative;
     background: #fff;
     display: flex;
@@ -270,18 +270,18 @@ i {
     transform: translateY(-50px);
 }
 
-.container .card:hover .face.face2{
+.main-container .card:hover .face.face2{
     transform: translateY(0);
 }
 
-.container .card .face.face2 .content p {
+.main-container .card .face.face2 .content p {
     margin: 0;
     padding: 0;
     text-align: center;
     color: #414141;
 }
 
-.container .card .face.face2 .content h3 {
+.main-container .card .face.face2 .content h3 {
     margin: 0 0 10px 0;
     padding: 0;
     color: #fff;
@@ -290,7 +290,7 @@ i {
     color: #414141;
 } 
 
-.container a {
+.main-container a {
     text-decoration: none;
     color: #414141;
 }
