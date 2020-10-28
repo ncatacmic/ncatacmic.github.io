@@ -147,10 +147,12 @@ th {
     width: 800px;
 }
 
-/*
+
 .card {
-    background: #112a56;
+    border-radius: .25rem;
 }
+
+/*
 
 .button-container {
     display: flex;
