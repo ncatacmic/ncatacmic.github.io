@@ -1,3 +1,9 @@
+/* Prep for mobile */
+@viewport {
+  width: device-width;
+  zoom: 1.0;
+}
+
 /* Navbar */
 
 .navbar {
