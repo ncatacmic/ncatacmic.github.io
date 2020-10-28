@@ -215,6 +215,10 @@ i {
     color: #fff;
 }
 
+.card-header {
+    height:100%;
+}
+
 .container .card .face {
     max-width: 300px;
     min-width: 150px;
