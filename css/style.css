@@ -167,6 +167,7 @@ th {
     border-radius: 10px;
     float: left;
     max-width: 300px;
+    margin-left: 15px;
 }
 
 .container .card .icon {
