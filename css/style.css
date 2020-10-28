@@ -170,8 +170,8 @@ th {
 .main-container {
     position: relative;
     justify-content: space-between;
-    left: 50%;
-    transform: translateX(-50%);
+    width: 85%;
+    margin: auto;
 }
 
 .main-container .card {
