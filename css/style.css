@@ -84,8 +84,9 @@ ul li {
 }
 
 body {
-    background: #333;
-    font-family: 'Share Tech Mono', monospace;
+  background: #333;
+  font-family: 'Share Tech Mono', monospace;
+  padding-top:20px;
 }
 
 .formatted {
