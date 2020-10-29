@@ -148,8 +148,9 @@ th {
 
 
 .card {
-    border-radius: .25rem;
-    border: 0px;
+  border-radius: .25rem;
+  border: 0px;
+  margin: 0px;
 }
 
 .card-body {
