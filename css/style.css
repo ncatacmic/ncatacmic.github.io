@@ -187,6 +187,11 @@ th {
     font-family: sans-serif;
     background-color: #f1f1f1; 
 }*/
+r-radius: 10px;
+    float: left;
+    width: 250px;
+    margin-left: 15px;
+}
 
 
 .main-container {
@@ -208,17 +213,15 @@ th {
   .formatted {
     width: 90%;
     margin: auto;
-}
-}
-
-.main-container .card {
-    background: transparent;
-    border: 0px;
-    position: relative;
-    border-radius: 10px;
+   }
+  
+  .main-container .card {
     float: left;
-    width: 250px;
-    margin-left: 15px;
+    width: 100%;
+    padding-left: 1vmin;
+    padding-right: 1vmin;
+    margin: auto;
+   }
 }
 
 .main-container .card .icon {
