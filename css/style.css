@@ -169,6 +169,10 @@ th {
   margin-bottom: 5px;
 }
 
+.card-text {
+  padding: 20px;
+}
+
 .card-logo {
     margin-right: 10px;
 }
