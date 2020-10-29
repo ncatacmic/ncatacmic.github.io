@@ -201,6 +201,16 @@ r-radius: 10px;
     margin: auto;
 }
 
+.main-container .card {
+    background: transparent;
+    border: 0px;
+    position: relative;
+    border-radius: 10px;
+    float: left;
+    width: 250px;
+    margin-left: 15px;
+}
+
 @media screen and (min-width : 320px) and (max-width: 480px) {
   
    .main-container {
