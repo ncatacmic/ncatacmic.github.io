@@ -228,8 +228,8 @@ r-radius: 10px;
   .main-container .card {
     float: left;
     width: 100%;
-    padding-left: 1vmin;
-    padding-right: 1vmin;
+    padding-left: 5vmin;
+    padding-right: 5vmin;
     margin: auto;
    }
 }
