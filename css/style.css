@@ -348,3 +348,8 @@ i {
     text-decoration: none;
     color: #414141;
 }
+
+.one-line {
+    margin-top: 15px;
+    position: absolute;
+}
